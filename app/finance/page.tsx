@@ -1,8 +1,8 @@
 export default function Page() {
   return (
     <div>
-      <h1 className="text-2xl font-bold mb-4">Finance</h1>
-      <p>This page will contain information about finance.</p>
+      <h2 className="text-2xl font-semibold mb-4">Finance Overview</h2>
+      <p className="text-gray-700">Content for finance overview will go here.</p>
     </div>
   );
 }
